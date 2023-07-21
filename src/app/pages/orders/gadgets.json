@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "productName": "iPhone 13 Pro",
+      "orderQuantity": 2,
+      "buyerAddress": "123 Street, City, Country"
+    },
+    {
+      "id": 2,
+      "productName": "Samsung Galaxy S21 Ultra",
+      "orderQuantity": 3,
+      "buyerAddress": "456 Avenue, City, Country"
+    },
+    {
+      "id": 3,
+      "productName": "Google Pixel 6 Pro",
+      "orderQuantity": 1,
+      "buyerAddress": "789 Road, City, Country"
+    },
+    {
+      "id": 4,
+      "productName": "OnePlus 9 Pro",
+      "orderQuantity": 4,
+      "buyerAddress": "321 Lane, City, Country"
+    },
+    {
+      "id": 5,
+      "productName": "Sony PlayStation 5",
+      "orderQuantity": 1,
+      "buyerAddress": "654 Boulevard, City, Country"
+    },
+    {
+      "id": 6,
+      "productName": "Microsoft Surface Laptop 4",
+      "orderQuantity": 2,
+      "buyerAddress": "987 Alley, City, Country"
+    },
+    {
+      "id": 7,
+      "productName": "Dell XPS 13",
+      "orderQuantity": 3,
+      "buyerAddress": "234 Court, City, Country"
+    },
+    {
+      "id": 8,
+      "productName": "Lenovo ThinkPad X1 Carbon",
+      "orderQuantity": 2,
+      "buyerAddress": "567 Square, City, Country"
+    },
+    {
+      "id": 9,
+      "productName": "HP Spectre x360",
+      "orderQuantity": 1,
+      "buyerAddress": "890 Drive, City, Country"
+    },
+    {
+      "id": 10,
+      "productName": "Nintendo Switch",
+      "orderQuantity": 5,
+      "buyerAddress": "1234 Park, City, Country"
+    },
+    {
+      "id": 11,
+      "productName": "Canon EOS R5",
+      "orderQuantity": 1,
+      "buyerAddress": "5678 Garden, City, Country"
+    },
+    {
+      "id": 12,
+      "productName": "Nikon Z7 II",
+      "orderQuantity": 2,
+      "buyerAddress": "9012 Road, City, Country"
+    },
+    {
+      "id": 13,
+      "productName": "GoPro Hero 10 Black",
+      "orderQuantity": 3,
+      "buyerAddress": "3456 Avenue, City, Country"
+    },
+    {
+      "id": 14,
+      "productName": "Sony Alpha a7 III",
+      "orderQuantity": 2,
+      "buyerAddress": "7890 Street, City, Country"
+    },
+    {
+      "id": 15,
+      "productName": "LG OLED C1",
+      "orderQuantity": 1,
+      "buyerAddress": "12345 Lane, City, Country"
+    },
+    {
+      "id": 16,
+      "productName": "Samsung QN90A Neo QLED",
+      "orderQuantity": 3,
+      "buyerAddress": "67890 Road, City, Country"
+    },
+    {
+      "id": 17,
+      "productName": "Bose QuietComfort 35 II",
+      "orderQuantity": 2,
+      "buyerAddress": "23456 Avenue, City, Country"
+    },
+    {
+      "id": 18,
+      "productName": "Sony WH-1000XM4",
+      "orderQuantity": 1,
+      "buyerAddress": "78901 Street, City, Country"
+    },
+    {
+      "id": 19,
+      "productName": "Apple AirPods Pro",
+      "orderQuantity": 4,
+      "buyerAddress": "23456 Lane, City, Country"
+    },
+    {
+      "id": 20,
+      "productName": "JBL Charge 5",
+      "orderQuantity": 3,
+      "buyerAddress": "78901 Road, City, Country"
+    }
+  ]
+  

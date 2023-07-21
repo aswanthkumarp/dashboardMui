@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "name": "iPhone 13 Pro",
+      "brand": "Apple",
+      "price": 999
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S21 Ultra",
+      "brand": "Samsung",
+      "price": 1199
+    },
+    {
+      "id": 3,
+      "name": "Google Pixel 6 Pro",
+      "brand": "Google",
+      "price": 899
+    },
+    {
+      "id": 4,
+      "name": "OnePlus 9 Pro",
+      "brand": "OnePlus",
+      "price": 999
+    },
+    {
+      "id": 5,
+      "name": "Sony PlayStation 5",
+      "brand": "Sony",
+      "price": 499
+    },
+    {
+      "id": 6,
+      "name": "Microsoft Surface Laptop 4",
+      "brand": "Microsoft",
+      "price": 1299
+    },
+    {
+      "id": 7,
+      "name": "Dell XPS 13",
+      "brand": "Dell",
+      "price": 1099
+    },
+    {
+      "id": 8,
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "brand": "Lenovo",
+      "price": 1399
+    },
+    {
+      "id": 9,
+      "name": "HP Spectre x360",
+      "brand": "HP",
+      "price": 1199
+    },
+    {
+      "id": 10,
+      "name": "Nintendo Switch",
+      "brand": "Nintendo",
+      "price": 299
+    },
+    {
+      "id": 11,
+      "name": "Canon EOS R5",
+      "brand": "Canon",
+      "price": 3899
+    },
+    {
+      "id": 12,
+      "name": "Nikon Z7 II",
+      "brand": "Nikon",
+      "price": 2999
+    },
+    {
+      "id": 13,
+      "name": "GoPro Hero 10 Black",
+      "brand": "GoPro",
+      "price": 399
+    },
+    {
+      "id": 14,
+      "name": "Sony Alpha a7 III",
+      "brand": "Sony",
+      "price": 1999
+    },
+    {
+      "id": 15,
+      "name": "LG OLED C1",
+      "brand": "LG",
+      "price": 1999
+    },
+    {
+      "id": 16,
+      "name": "Samsung QN90A Neo QLED",
+      "brand": "Samsung",
+      "price": 2199
+    },
+    {
+      "id": 17,
+      "name": "Bose QuietComfort 35 II",
+      "brand": "Bose",
+      "price": 299
+    },
+    {
+      "id": 18,
+      "name": "Sony WH-1000XM4",
+      "brand": "Sony",
+      "price": 349
+    },
+    {
+      "id": 19,
+      "name": "Apple AirPods Pro",
+      "brand": "Apple",
+      "price": 249
+    },
+    {
+      "id": 20,
+      "name": "JBL Charge 5",
+      "brand": "JBL",
+      "price": 179
+    }
+  ]
+  
